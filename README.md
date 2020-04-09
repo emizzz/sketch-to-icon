@@ -6,7 +6,7 @@ In this project a Convolutional Neural Network is used for the feature extractio
 The implemented model ignore the gap between draws and icons, instead resolves it with a simple Edge Extraction.
 
 ## Other Experiments
-I'm working also in order to bridge the gap between the domains, check my python repo: 
+I'm also working in order to bridge the gap between the domains, check my python repo: 
 https://github.com/emizzz/Sketch-to-Icon-Paper-Code.
 
 ## Icons
