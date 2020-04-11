@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sketch-to-icon/static/css/main.d7a24d92.chunk.css",
-    "main.js": "/sketch-to-icon/static/js/main.10f9a1ff.chunk.js",
-    "main.js.map": "/sketch-to-icon/static/js/main.10f9a1ff.chunk.js.map",
+    "main.js": "/sketch-to-icon/static/js/main.943e3978.chunk.js",
+    "main.js.map": "/sketch-to-icon/static/js/main.943e3978.chunk.js.map",
     "runtime-main.js": "/sketch-to-icon/static/js/runtime-main.182b4543.js",
     "runtime-main.js.map": "/sketch-to-icon/static/js/runtime-main.182b4543.js.map",
     "static/js/2.e5292099.chunk.js": "/sketch-to-icon/static/js/2.e5292099.chunk.js",
     "static/js/2.e5292099.chunk.js.map": "/sketch-to-icon/static/js/2.e5292099.chunk.js.map",
     "index.html": "/sketch-to-icon/index.html",
-    "precache-manifest.fcda621dcc6b4a74c85800ad3cd4cb65.js": "/sketch-to-icon/precache-manifest.fcda621dcc6b4a74c85800ad3cd4cb65.js",
+    "precache-manifest.8570335cbcb60b071eca003bec22615f.js": "/sketch-to-icon/precache-manifest.8570335cbcb60b071eca003bec22615f.js",
     "service-worker.js": "/sketch-to-icon/service-worker.js",
     "static/css/main.d7a24d92.chunk.css.map": "/sketch-to-icon/static/css/main.d7a24d92.chunk.css.map",
     "static/js/2.e5292099.chunk.js.LICENSE.txt": "/sketch-to-icon/static/js/2.e5292099.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.182b4543.js",
     "static/js/2.e5292099.chunk.js",
     "static/css/main.d7a24d92.chunk.css",
-    "static/js/main.10f9a1ff.chunk.js"
+    "static/js/main.943e3978.chunk.js"
   ]
 }
