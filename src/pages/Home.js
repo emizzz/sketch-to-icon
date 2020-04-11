@@ -114,7 +114,7 @@ class Home extends Component {
     	<Layout>
     		<section className={classes.container}>
 
-          <Grid container spacing={3} className={classes.container} alignContent="center">
+          <Grid container className={classes.container} alignContent="center">
             <Grid item xs={12} sm={6}  >
               <Canvas output = { this.setInputImage } />
             </Grid>

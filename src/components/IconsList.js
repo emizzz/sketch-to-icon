@@ -116,7 +116,7 @@ class IconsList extends Component {
                             <Zoom in={true} style={{ transitionDelay: `${i*30}ms` }} key={i}>
 
                                 <Paper>
-                                    <Grid container spacing={3} className={classes.paperContainer}>
+                                    <Grid container     className={classes.paperContainer}>
                                         <Grid item xs={3} className={classes.icon}>
                                             <a href={fontaw_link} target="_blank" rel="noopener noreferrer">
                                                 <img alt={`icon ${tag_and_name[1]}`} width="50" height="50" src={`data:image/svg+xml;utf8,${item.svg_data}`} />

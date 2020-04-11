@@ -40,12 +40,12 @@ class Canvas extends Component {
         this.canvas = null
 
         const canvasWidth = 300;
-        const brushWidth = canvasWidth / 20; //canvasWidth / 25;
-
+        const brushWidth = canvasWidth / 20; 
+        
         this.default_props = {
             onChange: null,
             loadTimeOffset: 1,
-            lazyRadius: brushWidth * 1.2, 
+            lazyRadius: (window.innerWidth < 1200) ? brushWidth/2 : brushWidth * 1.2, 
             brushRadius: brushWidth, 
             brushColor: "#000",
             catenaryColor: "#ffb300",
