@@ -1,5 +1,5 @@
 import * as tf from '@tensorflow/tfjs';
-import * as cv from '../libs/opencv';
+import * as cv from '../libs/opencv/opencv.js';
 
 import {distance} from 'mathjs';
 

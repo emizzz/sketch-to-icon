@@ -51,7 +51,7 @@ class Canvas extends Component {
             catenaryColor: "#ffb300",
             gridColor: "rgba(150,150,150,0.17)",
             hideGrid: false,
-            canvasWidth: canvasWidth,
+            canvasWidth: canvasWidth,   
             canvasHeight: canvasWidth,
             disabled: false,
             imgSrc: "",
