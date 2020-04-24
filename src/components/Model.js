@@ -46,7 +46,7 @@ class Model extends Component {
       let im = await ImageUtilities.loadImg(nextProps.input.src, 32, 32)
       
       im = await ImageUtilities.contour_img(im)
-
+      
       let tensor = ImageUtilities.im_to_tensor(im)
       tensor = ImageUtilities.tensor_preprocess(tensor)
       tensor = ImageUtilities.expand_tensor(tensor)         

@@ -68,9 +68,10 @@ class IconsList extends Component {
         data = data.split("_");
         let cat  = data[0];
         let name =  data[1];
-        let tag = `<i class='${cat} ${name}'></i>`
+        let tag = `<i class='${cat} fa-${name}'></i>`
         return [tag, name]
     }
+
 
     // https://stackoverflow.com/questions/44774820/copying-to-clipboard-with-document-execcommandcopy-fails-with-big-texts
     copyToClipboard = (e) => {
