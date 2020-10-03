@@ -33,3 +33,7 @@ model.summary()
 
 ## Dataset
 The model was trained on a subset of the famous [QuickDraw](https://quickdraw.withgoogle.com/data) dataset.
+
+
+## Todo
+* Mobile friendly
